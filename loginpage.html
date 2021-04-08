@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>SIGN IN</title>
+</head>
+
+<script type="text/javascript">
+function login()
+{
+var U=document.forms["loginpage"]["User"].value;
+var p=document.forms["loginpage"]["pwd"].value;
+if (U=="" )
+{
+alert("Enter user name");
+}
+else{
+if(U=="food" )
+{
+if(p=="" )
+{
+alert("Please enter password");
+}
+else
+{
+
+
+if( p=="262730")
+{
+alert("Login Successfully");
+}
+else
+{
+alert("Login Unsuccess");
+}
+}
+}
+window.location="index.html";
+}
+}
+</script>
+<body background="6.jpg">
+
+<form name="loginpage" action="frame.html">
+<fieldset legend="LOGIN">
+<center><h3>LOGIN</h3></center>
+<center>Username:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" name="User"size="30" maxlength="25">
+<br>
+Password:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="Password" name="pwd" size="30" maxlength="25">
+<br>
+<br>
+<input type="button" value="LOGIN" onclick="login();">
+<input type="reset" value="reset">
+</form>
+</body>
+</html>
