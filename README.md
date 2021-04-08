@@ -6,26 +6,26 @@ Analyzing indian recipes as a lover of indian food. Spicy, rich, flavourful and 
 ## Website GUI
 
 ## Login Page
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/login.png)
 
 
 ## Home Page
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/home.png)
 
 
 ## Gallery Page
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/gallery.png)
 
 
 ## Maharashtra Page
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/maharashtra.png)
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/maharashtra1.png)
 
 
 ## Gujarati Page
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/gujarati.png)
 
 
 ## Punjabi Page 
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/punjabi.png)
+![Alt Text](https://github.com/gotipamul/Indian-Recipes/blob/main/Screenshots/punjabi1.png)
